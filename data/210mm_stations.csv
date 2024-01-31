@@ -1,0 +1,38 @@
+StationName,Abbrev,glat,glon,mlat,mlon,avail
+Kotelnyy,KTN,75.94,137.71,69.94,201.02,True
+Tixie,TIX,71.59,128.78,65.67,196.88,True
+Chokurdakh,CHD,70.62,147.89,64.67,212.12,True
+Kotzebue,KOT,66.88,197.4,64.52,249.72,True
+Cape Shmidt,CST,68.88,180.55,64.51,236.29,False
+Zhigansk,ZGN,66.75,123.26,61.01,193.82,False
+Zyryanka,ZYK,65.75,150.78,59.62,216.72,True
+Yakutsk,YAK,62.02,129.72,56.08,200.51,False
+Magadan,MGD,59.97,150.86,53.56,218.66,True
+St. Paratunka,PTK,52.94,158.25,46.34,225.91,True
+Irkutsk,IRT,52.17,104.45,47.13,177.01,False
+Moshiri,MSR,44.37,142.27,37.61,213.23,True
+Popov Island,PPI,42.98,131.73,36.62,203.63,False
+Beijing,BJI,40.06,116.18,34.37,188.4,False
+Onagawa,ONW,38.43,141.47,31.65,212.51,True
+Kagoshima,KAG,31.48,130.72,25.13,202.24,True
+Chichijima,CBI,27.15,142.3,20.59,213,True
+Lunping,LNP,25,121.17,13.8,189.5,True
+Ewa Beach,EWA,21.32,202,22.67,269.36,True
+Muntinlupa,MUT,14.37,121.02,3.58,191.57,True
+Guam,GAM,13.58,144.87,4.57,214.76,True
+Yap,YAP,9.3,138.5,-0.3,209,False
+Koror,KOR,7.33,134.48,-2.64,205.21,False
+Pontiana,PTN,-0.05,109.25,-11.37,180.49,False
+Biak,BIK,-1.08,136.05,-12.18,207.3,True
+Wewak,WEW,-3.33,143.74,-13.94,215.37,False
+Watukose,WTK,-7.56,112.63,-18.52,183.85,False
+Darwin,DRW,-12.4,130.9,-23.13,202.68,True
+Weipa,WEP,-12.68,141.88,-22.99,214.34,True
+American Samoa,ASA,-14.28,170.7,-20.6,245.05,False
+Learmonth,LEM,-22.22,114.1,-34.15,185.02,True
+Birdsville,BRV,-25.54,139.21,-36.58,212.96,True
+Dalby,DAL,-27.18,151.2,-37.09,226.8,False
+Katanning,KAT,-33.68,117.62,-46.63,188.24,True
+Adelaide,ADL,-34.67,138.65,-46.46,213.66,True
+Canberra,CAN,-35.3,149,-45.98,226.14,True
+Macquarie Isl.,MCQ,-54.5,158.95,-64.5,247.84,True
